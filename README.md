@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ak-sd7
-- 👀 I’m interested in web development and problem soving. 
+- 👋 Hi, I’m Akshita
+- 👀 I’m interested in web development and problem solving. 
 - 🌱 I’m currently learning back-end web development.
 
 <!---
