@@ -24,8 +24,9 @@ jobs:
 
       - name: Remove progress bar from SVGs
         run: |
+          chmod u+w dist/*.svg
           sed -i -E 's|<rect class="u u[0-9]+"[^/]*/>||g' dist/*.svg
-
+          
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
